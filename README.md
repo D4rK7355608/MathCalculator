@@ -1,6 +1,6 @@
 # Math Calculator
 
-A simple C++ code with multiple functions for performing different mathematical operations.
+A comprehensive C++ code suite that performs various calculations such as hypotenuse, modulo, addition, subtraction, multiplication, division and power. Features colorful console text and user-friendly interface for choosing actions.
 
 ## Features
 
